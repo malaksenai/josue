@@ -1,1 +1,5 @@
-# josue
+# NOME: DAVI MALACHIAS CRUZ
+#       GIOVANNA GUIMARAES VASCONCELOS
+# TURMA: 1DS2
+
+#   Atividade Typescript
